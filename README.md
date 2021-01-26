@@ -1,7 +1,7 @@
 # bdo-market-utils
 
 
-Collect data from Black Desert Online's marketplace and analyze it too!
+Collect data from Black Desert Online's marketplace and analyze it too!  
 Note: I've kinda dropped this project bc I stopped playing Black Desert Online. Feel free to use it tho, whoever's out there.
 
 ## Features
